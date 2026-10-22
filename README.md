@@ -1,5 +1,4 @@
 #  Food Ordering System
-
 ##  Project Description
 The Food Ordering System is a simple web application that allows users to explore food items and view a menu through a user-friendly interface. This project is developed to practice frontend web development skills.
 
